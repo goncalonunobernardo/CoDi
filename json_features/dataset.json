@@ -1,0 +1,2537 @@
+[
+    {
+        "layer": "rhythm", 
+        "id": 1, 
+        "filename": "music/rhythm/Drums/Work It Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 2, 
+        "filename": "music/rhythm/Drums/Reflection Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 3, 
+        "filename": "music/rhythm/Drums/Razor Sharp Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 4, 
+        "filename": "music/rhythm/Drums/Final Straw Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 5, 
+        "filename": "music/rhythm/Drums/Just Bounce Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 6, 
+        "filename": "music/rhythm/Drums/Double Vision Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 7, 
+        "filename": "music/rhythm/Drums/Gridlock Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 8, 
+        "filename": "music/rhythm/Drums/Candlelight Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 9, 
+        "filename": "music/rhythm/Drums/Southbound Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 10, 
+        "filename": "music/rhythm/Drums/City Lights Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 11, 
+        "filename": "music/rhythm/Drums/On Top Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 12, 
+        "filename": "music/rhythm/Drums/Rivals Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 13, 
+        "filename": "music/rhythm/Drums/Long Beach Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 14, 
+        "filename": "music/rhythm/Drums/Head to Head Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 15, 
+        "filename": "music/rhythm/Drums/Under the Radar Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 16, 
+        "filename": "music/rhythm/Drums/Funk Era Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 17, 
+        "filename": "music/rhythm/Drums/Chip Shot Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 18, 
+        "filename": "music/rhythm/Drums/Running Late Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 19, 
+        "filename": "music/rhythm/Drums/True Love Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 20, 
+        "filename": "music/rhythm/Drums/Inked Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 21, 
+        "filename": "music/rhythm/Drums/Deep End Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 22, 
+        "filename": "music/rhythm/Drums/Pendulum Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 23, 
+        "filename": "music/rhythm/Drums/No Escape Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 24, 
+        "filename": "music/rhythm/Drums/In Charge Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 25, 
+        "filename": "music/rhythm/Drums/Undercover Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 26, 
+        "filename": "music/rhythm/Drums/Empty Throne Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 27, 
+        "filename": "music/rhythm/Drums/Poolside Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 28, 
+        "filename": "music/rhythm/Drums/Main Event Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 29, 
+        "filename": "music/rhythm/Drums/Euphoria Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 30, 
+        "filename": "music/rhythm/Drums/Empire State Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 31, 
+        "filename": "music/rhythm/Drums/Concrete Jungle Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 32, 
+        "filename": "music/rhythm/Drums/Pop the Clutch Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 33, 
+        "filename": "music/rhythm/Drums/Deal Breaker Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 34, 
+        "filename": "music/rhythm/Drums/Loose Change Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 35, 
+        "filename": "music/rhythm/Drums/Bell Ringer Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 36, 
+        "filename": "music/rhythm/Drums/Side Streets Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 37, 
+        "filename": "music/rhythm/Drums/Let's Roll Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 38, 
+        "filename": "music/rhythm/Drums/Legacy Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 39, 
+        "filename": "music/rhythm/Drums/Drive Slow Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 40, 
+        "filename": "music/rhythm/Drums/Ice Cold Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 41, 
+        "filename": "music/rhythm/Drums/Lay Low Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 42, 
+        "filename": "music/rhythm/Drums/Head to Head Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 43, 
+        "filename": "music/rhythm/Drums/Knuckle Down Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 44, 
+        "filename": "music/rhythm/Drums/Brick Wall Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 45, 
+        "filename": "music/rhythm/Drums/Spotlight Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 46, 
+        "filename": "music/rhythm/Drums/Steam Machine Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 47, 
+        "filename": "music/rhythm/Drums/Pulling Strings Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 48, 
+        "filename": "music/rhythm/Drums/Showdown Zap Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 49, 
+        "filename": "music/rhythm/Drums/Rhyming Scheme Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 50, 
+        "filename": "music/rhythm/Drums/Empty Throne Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 51, 
+        "filename": "music/rhythm/Drums/Rev It Up Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 52, 
+        "filename": "music/rhythm/Drums/Pop the Clutch Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 53, 
+        "filename": "music/rhythm/Drums/Quite Right Swag Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 54, 
+        "filename": "music/rhythm/Drums/Late Shift Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 55, 
+        "filename": "music/rhythm/Drums/Three Or Four Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 56, 
+        "filename": "music/rhythm/Drums/Altered State Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 57, 
+        "filename": "music/rhythm/Drums/Countdown Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 58, 
+        "filename": "music/rhythm/Drums/Boss Level Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 59, 
+        "filename": "music/rhythm/Drums/Warning Sign Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 60, 
+        "filename": "music/rhythm/Drums/Slow Motion Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 61, 
+        "filename": "music/rhythm/Drums/Mellow Drizzle Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 62, 
+        "filename": "music/rhythm/Drums/Falling Rain Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 63, 
+        "filename": "music/rhythm/Drums/M Style Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 64, 
+        "filename": "music/rhythm/Drums/Got Game Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 65, 
+        "filename": "music/rhythm/Drums/Concrete Jungle Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 66, 
+        "filename": "music/rhythm/Drums/Still Champion Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 67, 
+        "filename": "music/rhythm/Drums/Lay Low Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 68, 
+        "filename": "music/rhythm/Drums/Mount Up Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 69, 
+        "filename": "music/rhythm/Drums/Warning Sign Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 70, 
+        "filename": "music/rhythm/Drums/Jet Set Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 71, 
+        "filename": "music/rhythm/Drums/Left Coast Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 72, 
+        "filename": "music/rhythm/Drums/Nightshade Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 73, 
+        "filename": "music/rhythm/Drums/Boss Level Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 74, 
+        "filename": "music/rhythm/Drums/In the Cut Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 75, 
+        "filename": "music/rhythm/Drums/Keep Moving Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 76, 
+        "filename": "music/rhythm/Drums/Atmosphere Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 77, 
+        "filename": "music/rhythm/Drums/Paranormal Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 78, 
+        "filename": "music/rhythm/Drums/Ice Cold Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 79, 
+        "filename": "music/rhythm/Drums/Altered State Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 80, 
+        "filename": "music/rhythm/Drums/Freeway Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 81, 
+        "filename": "music/rhythm/Drums/South Beach Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 82, 
+        "filename": "music/rhythm/Drums/Keep Moving Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 83, 
+        "filename": "music/rhythm/Drums/Reign Supreme Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 84, 
+        "filename": "music/rhythm/Drums/Freeway Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 85, 
+        "filename": "music/rhythm/Drums/First Class Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 86, 
+        "filename": "music/rhythm/Drums/No Fear Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 87, 
+        "filename": "music/rhythm/Drums/Transatlantic Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 88, 
+        "filename": "music/rhythm/Drums/Early Days Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 89, 
+        "filename": "music/rhythm/Drums/Bongo Room Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 90, 
+        "filename": "music/rhythm/Drums/Golden Age Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 91, 
+        "filename": "music/rhythm/Drums/Off the Chain Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 92, 
+        "filename": "music/rhythm/Drums/Brick Wall Zap Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 93, 
+        "filename": "music/rhythm/Drums/Brooklyn Noir Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 94, 
+        "filename": "music/rhythm/Drums/Pile Driver Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 95, 
+        "filename": "music/rhythm/Drums/Panorama Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 96, 
+        "filename": "music/rhythm/Drums/Twilight Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 97, 
+        "filename": "music/rhythm/Drums/Moving On Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 98, 
+        "filename": "music/rhythm/Drums/Velvet Rope Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 99, 
+        "filename": "music/rhythm/Drums/Stomping Ground Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 100, 
+        "filename": "music/rhythm/Drums/Funhouse Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 101, 
+        "filename": "music/rhythm/Drums/Barricade Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 102, 
+        "filename": "music/rhythm/Drums/Soul Mate Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 103, 
+        "filename": "music/rhythm/Drums/On Top Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 104, 
+        "filename": "music/rhythm/Drums/Razor Sharp Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 105, 
+        "filename": "music/rhythm/Drums/Ozone Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 106, 
+        "filename": "music/rhythm/Drums/No Escape Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 107, 
+        "filename": "music/rhythm/Drums/White Light Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 108, 
+        "filename": "music/rhythm/Drums/Chip Shot Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 109, 
+        "filename": "music/rhythm/Drums/Ozone Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 110, 
+        "filename": "music/rhythm/Drums/Detroit Made Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 111, 
+        "filename": "music/rhythm/Drums/Touch n Go Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 112, 
+        "filename": "music/rhythm/Drums/Pop Champagne Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 113, 
+        "filename": "music/rhythm/Drums/Little Wonder Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 114, 
+        "filename": "music/rhythm/Drums/Supernatural Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 115, 
+        "filename": "music/rhythm/Drums/Under the Radar Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 116, 
+        "filename": "music/rhythm/Drums/Restless Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 117, 
+        "filename": "music/rhythm/Drums/VIP Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 118, 
+        "filename": "music/rhythm/Drums/Deep Freeze Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 119, 
+        "filename": "music/rhythm/Drums/Rivals Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 120, 
+        "filename": "music/rhythm/Drums/Full Throttle Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 121, 
+        "filename": "music/rhythm/Drums/Ambition Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 122, 
+        "filename": "music/rhythm/Drums/Drive Slow Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 123, 
+        "filename": "music/rhythm/Drums/Knuckle Down Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 124, 
+        "filename": "music/rhythm/Drums/Black Tie Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 125, 
+        "filename": "music/rhythm/Drums/True Love Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 126, 
+        "filename": "music/rhythm/Drums/Southbound Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 127, 
+        "filename": "music/rhythm/Drums/No Fear Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 128, 
+        "filename": "music/rhythm/Drums/Work It Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 129, 
+        "filename": "music/rhythm/Drums/Take Over Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 130, 
+        "filename": "music/rhythm/Drums/Showdown Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 131, 
+        "filename": "music/rhythm/Drums/No Return Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 132, 
+        "filename": "music/rhythm/Drums/Places Unknown Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 133, 
+        "filename": "music/rhythm/Drums/Deep Freeze Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 134, 
+        "filename": "music/rhythm/Drums/Chronicles Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 135, 
+        "filename": "music/rhythm/Drums/Long Way Home Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 136, 
+        "filename": "music/rhythm/Drums/Foreign Cinema Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 137, 
+        "filename": "music/rhythm/Drums/In Charge Beat 02.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 138, 
+        "filename": "music/rhythm/Drums/Slow Motion Beat 01.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 139, 
+        "filename": "music/rhythm/Drums/Golden Hour Swag Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 140, 
+        "filename": "music/rhythm/Drums/Knockout Beat.aiff"
+    }, 
+    {
+        "layer": "rhythm", 
+        "id": 141, 
+        "filename": "music/rhythm/Drums/VIP Beat 01.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 142, 
+        "filename": "music/Harmony/Still Champion Sample Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 143, 
+        "filename": "music/Harmony/Brick Wall Brass.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 144, 
+        "filename": "music/Harmony/Pop Champagne Sax.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 145, 
+        "filename": "music/Harmony/Left Coast Echo Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 146, 
+        "filename": "music/Harmony/Countdown Synth Effect.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 147, 
+        "filename": "music/Harmony/South Beach Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 148, 
+        "filename": "music/Harmony/ATM 009 D# 138BPM.wav"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 149, 
+        "filename": "music/Harmony/Empty Throne Brass.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 150, 
+        "filename": "music/Harmony/Moving On Gated Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 151, 
+        "filename": "music/Harmony/Foreign Cinema Electric Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 152, 
+        "filename": "music/Harmony/Long Way Home Layered Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 153, 
+        "filename": "music/Harmony/Spotlight Synth Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 154, 
+        "filename": "music/Harmony/Restless Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 155, 
+        "filename": "music/Harmony/Boss Level Chimes.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 156, 
+        "filename": "music/Harmony/M Style Guitar 02.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 157, 
+        "filename": "music/Harmony/Reflection Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 158, 
+        "filename": "music/Harmony/M Style Guitar 01.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 159, 
+        "filename": "music/Harmony/Freeway Orchestra Hits.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 160, 
+        "filename": "music/Harmony/Keep Moving Driving Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 161, 
+        "filename": "music/Harmony/White Light Pulse Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 162, 
+        "filename": "music/Harmony/Boss Level Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 163, 
+        "filename": "music/Harmony/Bell Ringer Orchestral Layers.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 164, 
+        "filename": "music/Harmony/Main Event Brass.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 165, 
+        "filename": "music/Harmony/Higher Power Organ.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 166, 
+        "filename": "music/Harmony/Brooklyn Noir Flute.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 167, 
+        "filename": "music/Harmony/Set Free Crystal Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 168, 
+        "filename": "music/Harmony/Red Alert Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 169, 
+        "filename": "music/Harmony/In Charge Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 170, 
+        "filename": "music/Harmony/Barricade Droning Brass.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 171, 
+        "filename": "music/Harmony/SOS Stutter Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 172, 
+        "filename": "music/Harmony/Loose Change Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 173, 
+        "filename": "music/Harmony/ATM 008 F 138BPM.wav"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 174, 
+        "filename": "music/Harmony/Main Event Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 175, 
+        "filename": "music/Harmony/Be Together Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 176, 
+        "filename": "music/Harmony/ATM 006 A 138BPM.wav"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 177, 
+        "filename": "music/Harmony/Main Event Sample.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 178, 
+        "filename": "music/Harmony/Deal Breaker Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 179, 
+        "filename": "music/Harmony/Broken Organ Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 180, 
+        "filename": "music/Harmony/Skyline Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 181, 
+        "filename": "music/Harmony/Last Episode Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 182, 
+        "filename": "music/Harmony/Glistening Synth Chords.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 183, 
+        "filename": "music/Harmony/Gliding Synth Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 184, 
+        "filename": "music/Harmony/SOS Stab Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 185, 
+        "filename": "music/Harmony/White Light Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 186, 
+        "filename": "music/Harmony/Atmosphere Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 187, 
+        "filename": "music/Harmony/Keep Moving Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 188, 
+        "filename": "music/Harmony/Euphoria Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 189, 
+        "filename": "music/Harmony/Floating Synth Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 190, 
+        "filename": "music/Harmony/Chronicles Phase Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 191, 
+        "filename": "music/Harmony/White Light Sample Vox.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 192, 
+        "filename": "music/Harmony/ATM 002 F# 138BPM.wav"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 193, 
+        "filename": "music/Harmony/Transatlantic Synth Chords.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 194, 
+        "filename": "music/Harmony/Under the Radar Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 195, 
+        "filename": "music/Harmony/ATM 010 D# 138BPM.wav"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 196, 
+        "filename": "music/Harmony/Golden Age Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 197, 
+        "filename": "music/Harmony/Doghouse Synth Chords.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 198, 
+        "filename": "music/Harmony/Early Days Stab Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 199, 
+        "filename": "music/Harmony/Deal Breaker Riff Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 200, 
+        "filename": "music/Harmony/Doghouse Synth Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 201, 
+        "filename": "music/Harmony/Euphoria Keys.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 202, 
+        "filename": "music/Harmony/Touch n Go Bells.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 203, 
+        "filename": "music/Harmony/Supernatural Gated Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 204, 
+        "filename": "music/Harmony/Lay Low Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 205, 
+        "filename": "music/Harmony/Deep End Echo Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 206, 
+        "filename": "music/Harmony/Golden Hour Sitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 207, 
+        "filename": "music/Harmony/Twilight Gated Choir.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 208, 
+        "filename": "music/Harmony/Mount Up Gated Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 209, 
+        "filename": "music/Harmony/Sub Zero Synth Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 210, 
+        "filename": "music/Harmony/Pile Driver Wah Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 211, 
+        "filename": "music/Harmony/Spotlight Synth Chords.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 212, 
+        "filename": "music/Harmony/Illusions Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 213, 
+        "filename": "music/Harmony/Mount Up Stab Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 214, 
+        "filename": "music/Harmony/Pop Champagne Stabs.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 215, 
+        "filename": "music/Harmony/Deep Freeze Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 216, 
+        "filename": "music/Harmony/Time Warp Synth 02.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 217, 
+        "filename": "music/Harmony/Under Pressure Synth Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 218, 
+        "filename": "music/Harmony/Late Shift Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 219, 
+        "filename": "music/Harmony/Falling Rain Gated Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 220, 
+        "filename": "music/Harmony/Four Oh Five Harpsichord.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 221, 
+        "filename": "music/Harmony/Transatlantic Synth Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 222, 
+        "filename": "music/Harmony/Long Beach Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 223, 
+        "filename": "music/Harmony/Jet Set Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 224, 
+        "filename": "music/Harmony/Double Vision Quiet Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 225, 
+        "filename": "music/Harmony/Mount Up Bells.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 226, 
+        "filename": "music/Harmony/Cali Swag Synth Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 227, 
+        "filename": "music/Harmony/Pendulum Sample Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 228, 
+        "filename": "music/Harmony/First Class Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 229, 
+        "filename": "music/Harmony/Left Coast Wah Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 230, 
+        "filename": "music/Harmony/Twilight Noise Sweep.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 231, 
+        "filename": "music/Harmony/Slow Motion Synth Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 232, 
+        "filename": "music/Harmony/Candlelight Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 233, 
+        "filename": "music/Harmony/Four Oh Five Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 234, 
+        "filename": "music/Harmony/Twilight Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 235, 
+        "filename": "music/Harmony/Cliffhanger Synth Chords.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 236, 
+        "filename": "music/Harmony/Spacey Synth Fall.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 237, 
+        "filename": "music/Harmony/Chip Shot Bell Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 238, 
+        "filename": "music/Harmony/Gridlock Sitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 239, 
+        "filename": "music/Harmony/Knockout Rhythm Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 240, 
+        "filename": "music/Harmony/Jet Set Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 241, 
+        "filename": "music/Harmony/No Return Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 242, 
+        "filename": "music/Harmony/Stomping Ground Brass Stabs.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 243, 
+        "filename": "music/Harmony/On Top Synth Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 244, 
+        "filename": "music/Harmony/Higher Power Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 245, 
+        "filename": "music/Harmony/Ambition Filter Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 246, 
+        "filename": "music/Harmony/Mellow Drizzle Bright Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 247, 
+        "filename": "music/Harmony/M Style Lead Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 248, 
+        "filename": "music/Harmony/Showdown Droning Brass.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 249, 
+        "filename": "music/Harmony/Future Flight Riser.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 250, 
+        "filename": "music/Harmony/Four Oh Five Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 251, 
+        "filename": "music/Harmony/Hearts Collide Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 252, 
+        "filename": "music/Harmony/Pendulum Keys.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 253, 
+        "filename": "music/Harmony/Hearts Collide Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 254, 
+        "filename": "music/Harmony/Loose Change Intro Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 255, 
+        "filename": "music/Harmony/Black Tie Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 256, 
+        "filename": "music/Harmony/Places Unknown Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 257, 
+        "filename": "music/Harmony/Knuckle Down Orchestra Hits.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 258, 
+        "filename": "music/Harmony/Intergalactic Soft Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 259, 
+        "filename": "music/Harmony/Into the Void Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 260, 
+        "filename": "music/Harmony/Main Event Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 261, 
+        "filename": "music/Harmony/Jet Set Horns.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 262, 
+        "filename": "music/Harmony/Countdown Brass.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 263, 
+        "filename": "music/Harmony/Detroit Made Tremolo Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 264, 
+        "filename": "music/Harmony/Pile Driver Echo Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 265, 
+        "filename": "music/Harmony/Left Coast Lead Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 266, 
+        "filename": "music/Harmony/Reflection Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 267, 
+        "filename": "music/Harmony/Pop Champagne Brass.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 268, 
+        "filename": "music/Harmony/Supernatural Echo Piano 01.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 269, 
+        "filename": "music/Harmony/Empire State Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 270, 
+        "filename": "music/Harmony/Mount Up Crystal Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 271, 
+        "filename": "music/Harmony/First Class Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 272, 
+        "filename": "music/Harmony/Rising Up Synth Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 273, 
+        "filename": "music/Harmony/Top Down Harpsichord.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 274, 
+        "filename": "music/Harmony/Pile Driver Synth Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 275, 
+        "filename": "music/Harmony/Mellow Drizzle Soft Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 276, 
+        "filename": "music/Harmony/Little Wonder Blip Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 277, 
+        "filename": "music/Harmony/Abandoned Brass Stabs.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 278, 
+        "filename": "music/Harmony/Soul Mate Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 279, 
+        "filename": "music/Harmony/Four Oh Five Piano 01.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 280, 
+        "filename": "music/Harmony/Atmosphere Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 281, 
+        "filename": "music/Harmony/Pendulum Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 282, 
+        "filename": "music/Harmony/Left Coast Fuzz Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 283, 
+        "filename": "music/Harmony/Detroit Made Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 284, 
+        "filename": "music/Harmony/Mount Up String Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 285, 
+        "filename": "music/Harmony/Poolside Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 286, 
+        "filename": "music/Harmony/On Top String Stabs.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 287, 
+        "filename": "music/Harmony/Moving On Bell Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 288, 
+        "filename": "music/Harmony/True Love Gated Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 289, 
+        "filename": "music/Harmony/Left Coast Anthem Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 290, 
+        "filename": "music/Harmony/South Beach Harp.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 291, 
+        "filename": "music/Harmony/Atmosphere Octave Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 292, 
+        "filename": "music/Harmony/Deal Breaker Brass.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 293, 
+        "filename": "music/Harmony/Legacy Brass Melody.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 294, 
+        "filename": "music/Harmony/Restless Vox Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 295, 
+        "filename": "music/Harmony/Pop the Clutch Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 296, 
+        "filename": "music/Harmony/True Love Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 297, 
+        "filename": "music/Harmony/Funk Era Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 298, 
+        "filename": "music/Harmony/Let's Roll Sharp Horns.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 299, 
+        "filename": "music/Harmony/Falling Rain Synth Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 300, 
+        "filename": "music/Harmony/Pitch Black Synth Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 301, 
+        "filename": "music/Harmony/Pop Champagne Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 302, 
+        "filename": "music/Harmony/Showdown Filtered Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 303, 
+        "filename": "music/Harmony/South Beach String Stabs.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 304, 
+        "filename": "music/Harmony/Razor Sharp Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 305, 
+        "filename": "music/Harmony/M Style Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 306, 
+        "filename": "music/Harmony/Steam Machine Synth Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 307, 
+        "filename": "music/Harmony/Main Event Bells.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 308, 
+        "filename": "music/Harmony/Legacy Filter Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 309, 
+        "filename": "music/Harmony/Doctor's Orders Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 310, 
+        "filename": "music/Harmony/Spacey Synth Riser.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 311, 
+        "filename": "music/Harmony/South Beach Bells.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 312, 
+        "filename": "music/Harmony/Street Legal Guitar Chords.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 313, 
+        "filename": "music/Harmony/Brooklyn Noir Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 314, 
+        "filename": "music/Harmony/Night Rider Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 315, 
+        "filename": "music/Harmony/Brooklyn Noir Melodic Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 316, 
+        "filename": "music/Harmony/Early Days String Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 317, 
+        "filename": "music/Harmony/Slow Motion Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 318, 
+        "filename": "music/Harmony/Abandoned Orchestral Layers.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 319, 
+        "filename": "music/Harmony/Candlelight Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 320, 
+        "filename": "music/Harmony/Mount Up Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 321, 
+        "filename": "music/Harmony/Funk Era Brass.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 322, 
+        "filename": "music/Harmony/City of Angeles Rhythm Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 323, 
+        "filename": "music/Harmony/Foreign Cinema Synth Chords.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 324, 
+        "filename": "music/Harmony/Velvet Rope Harp.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 325, 
+        "filename": "music/Harmony/Freeway Climbing Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 326, 
+        "filename": "music/Harmony/ATM 007 B 138BPM.wav"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 327, 
+        "filename": "music/Harmony/Pop Champagne Flute.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 328, 
+        "filename": "music/Harmony/Ambition Electric Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 329, 
+        "filename": "music/Harmony/Skyline Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 330, 
+        "filename": "music/Harmony/True Love Electric Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 331, 
+        "filename": "music/Harmony/Four Oh Five Piano 02.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 332, 
+        "filename": "music/Harmony/Cali Swag Lead Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 333, 
+        "filename": "music/Harmony/Knockout Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 334, 
+        "filename": "music/Harmony/Four Oh Five Clav.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 335, 
+        "filename": "music/Harmony/Warning Sign Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 336, 
+        "filename": "music/Harmony/Golden Hour Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 337, 
+        "filename": "music/Harmony/Deal Breaker Horns.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 338, 
+        "filename": "music/Harmony/Let's Roll Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 339, 
+        "filename": "music/Harmony/Gated Synth Riser.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 340, 
+        "filename": "music/Harmony/Legacy Brass Chords.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 341, 
+        "filename": "music/Harmony/Empire State Horns.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 342, 
+        "filename": "music/Harmony/Black Tie Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 343, 
+        "filename": "music/Harmony/City Lights Brass.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 344, 
+        "filename": "music/Harmony/Bell Ringer Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 345, 
+        "filename": "music/Harmony/M Style Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 346, 
+        "filename": "music/Harmony/Suspense Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 347, 
+        "filename": "music/Harmony/Drive Slow Arpeggio 01.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 348, 
+        "filename": "music/Harmony/Drive Slow Arpeggio 02.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 349, 
+        "filename": "music/Harmony/Ambition Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 350, 
+        "filename": "music/Harmony/Bullseye Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 351, 
+        "filename": "music/Harmony/Just Bounce Gated Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 352, 
+        "filename": "music/Harmony/Pile Driver Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 353, 
+        "filename": "music/Harmony/Falling Rain String Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 354, 
+        "filename": "music/Harmony/Pop Champagne Samples.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 355, 
+        "filename": "music/Harmony/Undercover Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 356, 
+        "filename": "music/Harmony/Deep End Gated Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 357, 
+        "filename": "music/Harmony/Let's Roll Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 358, 
+        "filename": "music/Harmony/Loose Change Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 359, 
+        "filename": "music/Harmony/Long Beach Electric Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 360, 
+        "filename": "music/Harmony/Pop Champagne Koto.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 361, 
+        "filename": "music/Harmony/Black Tie Chimes.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 362, 
+        "filename": "music/Harmony/City Lights Blip Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 363, 
+        "filename": "music/Harmony/Mount Up Choir.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 364, 
+        "filename": "music/Harmony/Ozone Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 365, 
+        "filename": "music/Harmony/Legacy Choir.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 366, 
+        "filename": "music/Harmony/In the Cut Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 367, 
+        "filename": "music/Harmony/No Fear Brass.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 368, 
+        "filename": "music/Harmony/Detroit Made Rhythm Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 369, 
+        "filename": "music/Harmony/Rising Up Choir.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 370, 
+        "filename": "music/Harmony/Red Alert Octave Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 371, 
+        "filename": "music/Harmony/Filtered Dream Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 372, 
+        "filename": "music/Harmony/Left Coast Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 373, 
+        "filename": "music/Harmony/Take Over Brass.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 374, 
+        "filename": "music/Harmony/Slip Sliding Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 375, 
+        "filename": "music/Harmony/No Fear Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 376, 
+        "filename": "music/Harmony/Brick Wall Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 377, 
+        "filename": "music/Harmony/Slow Motion Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 378, 
+        "filename": "music/Harmony/Pop Champagne Harp.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 379, 
+        "filename": "music/Harmony/Showdown Steel Drum.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 380, 
+        "filename": "music/Harmony/Falling Rain Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 381, 
+        "filename": "music/Harmony/Full Measures Harpsichord.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 382, 
+        "filename": "music/Harmony/Intergalactic Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 383, 
+        "filename": "music/Harmony/Empire State Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 384, 
+        "filename": "music/Harmony/Freeway Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 385, 
+        "filename": "music/Harmony/Paranormal Synth Bells.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 386, 
+        "filename": "music/Harmony/Double Vision Filter Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 387, 
+        "filename": "music/Harmony/Ice Cold Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 388, 
+        "filename": "music/Harmony/Funk Era Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 389, 
+        "filename": "music/Harmony/On Top Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 390, 
+        "filename": "music/Harmony/M Style Echo Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 391, 
+        "filename": "music/Harmony/No Fear Choir.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 392, 
+        "filename": "music/Harmony/Euphoria Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 393, 
+        "filename": "music/Harmony/Velvet Rope Brass.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 394, 
+        "filename": "music/Harmony/Pile Driver Bell Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 395, 
+        "filename": "music/Harmony/Got Game Blip Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 396, 
+        "filename": "music/Harmony/Panorama Synth Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 397, 
+        "filename": "music/Harmony/VIP Gated Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 398, 
+        "filename": "music/Harmony/Inked Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 399, 
+        "filename": "music/Harmony/Quiet Knocking Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 400, 
+        "filename": "music/Harmony/Restless Brass.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 401, 
+        "filename": "music/Harmony/Doctor's Orders Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 402, 
+        "filename": "music/Harmony/Panorama Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 403, 
+        "filename": "music/Harmony/Deep End String Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 404, 
+        "filename": "music/Harmony/Freeway Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 405, 
+        "filename": "music/Harmony/Left Coast High Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 406, 
+        "filename": "music/Harmony/Mount Up Organ.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 407, 
+        "filename": "music/Harmony/Nightshade Gated Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 408, 
+        "filename": "music/Harmony/Fat Stacks Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 409, 
+        "filename": "music/Harmony/Deep End Quiet Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 410, 
+        "filename": "music/Harmony/Knuckle Down Bells.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 411, 
+        "filename": "music/Harmony/Off the Chain Bells.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 412, 
+        "filename": "music/Harmony/Still Champion Bells.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 413, 
+        "filename": "music/Harmony/Inked Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 414, 
+        "filename": "music/Harmony/Detroit Made Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 415, 
+        "filename": "music/Harmony/Supernatural Echo Piano 02.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 416, 
+        "filename": "music/Harmony/Just Bounce Phaser Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 417, 
+        "filename": "music/Harmony/Street Legal Echo Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 418, 
+        "filename": "music/Harmony/Cali Vibes Glide Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 419, 
+        "filename": "music/Harmony/Final Straw Choir.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 420, 
+        "filename": "music/Harmony/Bell Ringer Vox Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 421, 
+        "filename": "music/Harmony/Transatlantic Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 422, 
+        "filename": "music/Harmony/Be Together Horns.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 423, 
+        "filename": "music/Harmony/Long Beach Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 424, 
+        "filename": "music/Harmony/Atmosphere Synth Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 425, 
+        "filename": "music/Harmony/Bullseye Droning Brass.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 426, 
+        "filename": "music/Harmony/Black Ice Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 427, 
+        "filename": "music/Harmony/Late Shift Synth Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 428, 
+        "filename": "music/Harmony/Reflection Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 429, 
+        "filename": "music/Harmony/Empty Throne Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 430, 
+        "filename": "music/Harmony/Barricade Gated Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 431, 
+        "filename": "music/Harmony/Rivals Buzz Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 432, 
+        "filename": "music/Harmony/Ice Cold Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 433, 
+        "filename": "music/Harmony/Cali Vibes Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 434, 
+        "filename": "music/Harmony/Doctor's Orders Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 435, 
+        "filename": "music/Harmony/ATM 001 D 140BPM.wav"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 436, 
+        "filename": "music/Harmony/Funhouse Synth Chords.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 437, 
+        "filename": "music/Harmony/Under Pressure Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 438, 
+        "filename": "music/Harmony/Black Tie String Hits.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 439, 
+        "filename": "music/Harmony/Little Wonder Harp.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 440, 
+        "filename": "music/Harmony/Double Vision Filter Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 441, 
+        "filename": "music/Harmony/Ambition Sizzle Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 442, 
+        "filename": "music/Harmony/Cali Vibes Lead Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 443, 
+        "filename": "music/Harmony/Places Unknown Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 444, 
+        "filename": "music/Harmony/Freeway Synth Chords.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 445, 
+        "filename": "music/Harmony/Slow Motion Phaser Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 446, 
+        "filename": "music/Harmony/Freeway Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 447, 
+        "filename": "music/Harmony/Got Game Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 448, 
+        "filename": "music/Harmony/Knockout Lead Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 449, 
+        "filename": "music/Harmony/Early Days Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 450, 
+        "filename": "music/Harmony/White Light Gated Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 451, 
+        "filename": "music/Harmony/ATM 011 F 140BPM.wav"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 452, 
+        "filename": "music/Harmony/Time Warp Synth 01.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 453, 
+        "filename": "music/Harmony/Golden Age Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 454, 
+        "filename": "music/Harmony/Jet Set Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 455, 
+        "filename": "music/Harmony/Let's Roll Droning Brass.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 456, 
+        "filename": "music/Harmony/Intergalactic Rising Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 457, 
+        "filename": "music/Harmony/Doctor's Orders Echo Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 458, 
+        "filename": "music/Harmony/First Class Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 459, 
+        "filename": "music/Harmony/Little Wonder Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 460, 
+        "filename": "music/Harmony/No Escape Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 461, 
+        "filename": "music/Harmony/Early Days Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 462, 
+        "filename": "music/Harmony/Brooklyn Noir Trill Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 463, 
+        "filename": "music/Harmony/Golden Hour String.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 464, 
+        "filename": "music/Harmony/Be Together Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 465, 
+        "filename": "music/Harmony/Cali Swag Synth Chords.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 466, 
+        "filename": "music/Harmony/Golden Age Vibrato Strings.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 467, 
+        "filename": "music/Harmony/M Style Koto.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 468, 
+        "filename": "music/Harmony/Poolside Synth Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 469, 
+        "filename": "music/Harmony/Sixth Sense Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 470, 
+        "filename": "music/Harmony/Stomping Ground Brass Melody.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 471, 
+        "filename": "music/Harmony/ATM 003 C# 138BPM.wav"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 472, 
+        "filename": "music/Harmony/Side Streets Steel Drum.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 473, 
+        "filename": "music/Harmony/Off the Chain Synth Chords.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 474, 
+        "filename": "music/Harmony/Chronicles Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 475, 
+        "filename": "music/Harmony/Pile Driver Guitar Chords.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 476, 
+        "filename": "music/Harmony/Pop the Clutch Arcade Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 477, 
+        "filename": "music/Harmony/ATM 005 G 138BPM.wav"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 478, 
+        "filename": "music/Harmony/Future Flight Fall.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 479, 
+        "filename": "music/Harmony/In the Cut Chimes.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 480, 
+        "filename": "music/Harmony/Got Game Hollow Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 481, 
+        "filename": "music/Harmony/Cali Vibes Piano.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 482, 
+        "filename": "music/Harmony/Inked Synth Hi-Hat.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 483, 
+        "filename": "music/Harmony/ATM 004 G# 138BPM.wav"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 484, 
+        "filename": "music/Harmony/Legacy Bells.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 485, 
+        "filename": "music/Harmony/South Beach String Pad.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 486, 
+        "filename": "music/Harmony/Supernatural Glide Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 487, 
+        "filename": "music/Harmony/Doppelganger Synth.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 488, 
+        "filename": "music/Harmony/lead/Deal Breaker Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 489, 
+        "filename": "music/Harmony/lead/Detroit Made Lead Guitar.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 490, 
+        "filename": "music/Harmony/lead/Wasteland Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 491, 
+        "filename": "music/Harmony/lead/Cold Shoulder Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 492, 
+        "filename": "music/Harmony/lead/Spotlight Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 493, 
+        "filename": "music/Harmony/lead/Top Down Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 494, 
+        "filename": "music/Harmony/lead/Take Over Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 495, 
+        "filename": "music/Harmony/lead/Rivals Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 496, 
+        "filename": "music/Harmony/lead/Southbound Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 497, 
+        "filename": "music/Harmony/lead/Slippery Slope Synth Lead.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 498, 
+        "filename": "music/Harmony/arp/Stomping Ground Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 499, 
+        "filename": "music/Harmony/arp/Countdown Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 500, 
+        "filename": "music/Harmony/arp/Side Streets Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 501, 
+        "filename": "music/Harmony/arp/Soul Mate Arpeggio 01.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 502, 
+        "filename": "music/Harmony/arp/Deal Breaker Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 503, 
+        "filename": "music/Harmony/arp/Altered State Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 504, 
+        "filename": "music/Harmony/arp/Climbing Brass Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 505, 
+        "filename": "music/Harmony/arp/Showdown Arpeggio.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 506, 
+        "filename": "music/Harmony/arp/Soul Mate Arpeggio 02.aiff"
+    }, 
+    {
+        "layer": "Harmony", 
+        "id": 507, 
+        "filename": "music/Harmony/arp/Ambition Arpeggio.aiff"
+    }
+]
